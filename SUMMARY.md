@@ -2,7 +2,7 @@
 
 * [關於 CHACHA Games](README.md)
 * [CHACHA 節點](chacha-jie-dian/README.md)
-  * [Page 1](chacha-jie-dian/page-1.md)
+  * [節點運行要求](chacha-jie-dian/jie-dian-yun-hang-yao-qiu.md)
 * [CHACHA 盲盒](chacha-mang-he.md)
 * [挖礦](wa-kuang/README.md)
   * [盲盒挖礦](wa-kuang/mang-he-wa-kuang.md)
