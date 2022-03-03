@@ -9,3 +9,4 @@
   * [盲盒挖礦](wa-kuang/mang-he-wa-kuang.md)
   * [LP挖礦](wa-kuang/lp-wa-kuang.md)
 * [環保系統](huan-bao-xi-tong.md)
+* [CHACHA社區](chacha-she-qu.md)
