@@ -6,6 +6,7 @@
 * [CHACHA 節點](chacha-jie-dian/README.md)
   * [節點運行要求](chacha-jie-dian/jie-dian-yun-hang-yao-qiu.md)
   * [購買節點](chacha-jie-dian/gou-mai-jie-dian.md)
+  * [節點登錄驗證](chacha-jie-dian/jie-dian-deng-lu-yan-zheng.md)
 * [節點收益](jie-dian-shou-yi.md)
 * [CHACHA 盲盒](chacha-mang-he.md)
 * [挖礦](wa-kuang/README.md)
