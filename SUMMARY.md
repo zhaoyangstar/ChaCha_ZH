@@ -14,4 +14,5 @@
   * [LP挖礦](wa-kuang/lp-wa-kuang.md)
 * [環保系統](huan-bao-xi-tong.md)
 * [相關業務合約地址](xiang-guan-ye-wu-he-yue-di-zhi.md)
+* [項目發展規劃](xiang-mu-fa-zhan-gui-hua.md)
 * [CHACHA社區](chacha-she-qu.md)
