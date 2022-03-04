@@ -6,7 +6,17 @@
 
 ### 如何挖礦
 
-進入盲盒挖礦頁面，先登錄賬戶且連接錢包后，選擇存入，輸入存入盲盒數量后，即可進行挖礦。
+1.進入https://cha-cha.games/mint，先登錄賬戶且連接錢包后，点击Mystery Box-Deposit/Withdraw-Deposit，输入存入盲盒的数量，点击存入即可。
+
+![](../.gitbook/assets/mh1.png)
+
+2.點擊Withdraw，輸入數量後，即可把挖礦的盲盒取出。取出後，盲盒將無法獲得挖礦收益。
+
+![](../.gitbook/assets/mh2.png)
+
+3.點擊Receive可收取挖礦收益。
+
+![](../.gitbook/assets/mh3.png)
 
 ### 挖礦收益怎麼計算
 
