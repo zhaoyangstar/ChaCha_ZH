@@ -1,6 +1,6 @@
 # 關於 CHACHA Games
 
-### 關於 <a href="#guan-wu" id="guan-wu"></a>
+### 簡介
 
 CHACHA Games是一款利用先進的計算機技術，基於區塊鏈技術、NFT等打造的區塊鏈遊戲創作及分發平臺。
 
