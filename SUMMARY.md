@@ -2,6 +2,7 @@
 
 * [專案時代背景](README.md)
 * [關於 CHACHA Games](<README (1).md>)
+* [CHACHA通證設計](chacha-tong-zheng-she-ji.md)
 * [CHACHA 節點](chacha-jie-dian/README.md)
   * [節點運行要求](chacha-jie-dian/jie-dian-yun-hang-yao-qiu.md)
   * [購買節點](chacha-jie-dian/gou-mai-jie-dian.md)
