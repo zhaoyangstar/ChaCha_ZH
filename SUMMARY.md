@@ -1,6 +1,6 @@
 # Table of contents
 
-* [專案時代背景](README.md)
+* [項目時代背景](README.md)
 * [關於 CHACHA Games](<README (1).md>)
 * [CHACHA通證設計](chacha-tong-zheng-she-ji.md)
 * [CHACHA 節點](chacha-jie-dian/README.md)
