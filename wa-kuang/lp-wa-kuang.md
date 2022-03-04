@@ -14,7 +14,7 @@
 
 ![](../.gitbook/assets/lp2.png)
 
-3.點擊Receive可收取挖礦收益
+3.點擊Receive可收取挖礦收益。
 
 ![](../.gitbook/assets/lp3.jpg)
 
